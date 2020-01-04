@@ -1,0 +1,6 @@
+arabic-reshaper==2.0.15
+future==0.18.2
+guizero==1.1.0
+pkg-resources==0.0.0
+python-bidi==0.4.2
+six==1.13.0
