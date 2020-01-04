@@ -12,7 +12,9 @@ A smart touch table for students
 
 ## to upload changes to github
 ```git add .```
+
 ```git commit -m 'your git message'```
+
 ```git push origin master```
 
 ## To download the project to a new device
